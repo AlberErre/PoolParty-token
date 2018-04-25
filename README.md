@@ -1,1 +1,1 @@
-# PoolParty token 🏊 — dividends ERC20 Extension <img align="right" src="https://github.com/ironBankNetwork/iron-core/blob/master/iron.png" height="250px" alt="iron logo">
+# PoolParty token 🏊 — dividends ERC20 Extension <img align="right" src="PoolPartyToken-small.png" height="250px" alt="PoolParty token">
