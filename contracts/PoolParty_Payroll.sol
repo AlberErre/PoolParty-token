@@ -4,7 +4,7 @@ pragma solidity ^0.4.21
  * @title PoolParty PayRoll
  * @author Alber Erre
  */
-contract PoolPartyPayRoll is BasicToken {
+contract PoolPartyPayRoll {
   using SafeMath for uint256;
   mapping (address => uint256) PayRollCount;
   function _HOLDersPayRoll() onlyOwner public {
