@@ -2,6 +2,9 @@
  * @title PoolParty Token
  * @author Alber Erre
  */
+ 
+import "./utils.sol";
+
 contract PoolPartyToken is Ownable {
   using SafeMath for uint256;
   
